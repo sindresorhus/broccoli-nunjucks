@@ -1,0 +1,45 @@
+{
+  "name": "broccoli-nunjucks",
+  "version": "0.0.0",
+  "description": "Precompile Nunjucks templates",
+  "license": "MIT",
+  "repository": "sindresorhus/broccoli-nunjucks",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "http://sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "broccoli build temp && mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "broccoli-plugin",
+    "nunjucks",
+    "jinja",
+    "jinja2",
+    "django",
+    "template",
+    "templating",
+    "view",
+    "precompile",
+    "compile",
+    "html",
+    "javascript"
+  ],
+  "dependencies": {
+    "broccoli-filter": "^0.1.0",
+    "nunjucks": "^1.0.0",
+    "object-assign": "^0.2.0"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "broccoli": "^0.2.0",
+    "rimraf": "^2.2.6"
+  }
+}
