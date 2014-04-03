@@ -1,4 +1,4 @@
-# [broccoli](https://github.com/joliss/broccoli)-nunjucks [![Build Status](https://travis-ci.org/sindresorhus/broccoli-nunjucks.png?branch=master)](https://travis-ci.org/sindresorhus/broccoli-nunjucks)
+# [broccoli](https://github.com/joliss/broccoli)-nunjucks [![Build Status](https://travis-ci.org/sindresorhus/broccoli-nunjucks.svg?branch=master)](https://travis-ci.org/sindresorhus/broccoli-nunjucks)
 
 > Precompile [Nunjucks](http://jlongster.github.io/nunjucks/) templates
 
@@ -7,12 +7,12 @@
 
 ## Install
 
-```
-npm install --save broccoli-nunjucks
+```bash
+$ npm install --save broccoli-nunjucks
 ```
 
 
-## Example
+## Usage
 
 ```js
 var nunjucks = require('broccoli-nunjucks');
@@ -46,4 +46,4 @@ nunjucks(tree, {
 
 ## License
 
-MIT © [Sindre Sorhus](http://sindresorhus.com)
+[MIT](http://opensource.org/licenses/MIT) © [Sindre Sorhus](http://sindresorhus.com)
