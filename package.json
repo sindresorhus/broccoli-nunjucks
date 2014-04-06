@@ -38,8 +38,8 @@
     "object-assign": "^0.2.0"
   },
   "devDependencies": {
+    "broccoli": "^0.7.2",
     "mocha": "*",
-    "broccoli": "^0.2.0",
     "rimraf": "^2.2.6"
   }
 }
