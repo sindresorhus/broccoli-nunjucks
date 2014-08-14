@@ -7,7 +7,7 @@
 
 ## Install
 
-```bash
+```sh
 $ npm install --save broccoli-nunjucks
 ```
 
@@ -28,7 +28,7 @@ Same options as [`nunjucks.precompile()`](http://jlongster.github.io/nunjucks/ap
 
 #### options.name
 
-Type: `Function`  
+Type: `function`  
 Default: *Relative template path. Example: `templates/list.html`*
 
 You can override the default behavior by supplying a function which gets the relative path and is expected to return the name.
@@ -46,4 +46,4 @@ nunjucks(tree, {
 
 ## License
 
-[MIT](http://opensource.org/licenses/MIT) © [Sindre Sorhus](http://sindresorhus.com)
+MIT © [Sindre Sorhus](http://sindresorhus.com)
