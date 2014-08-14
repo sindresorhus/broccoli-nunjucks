@@ -1,6 +1,6 @@
 {
   "name": "broccoli-nunjucks",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Precompile Nunjucks templates",
   "license": "MIT",
   "repository": "sindresorhus/broccoli-nunjucks",
