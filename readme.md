@@ -7,8 +7,8 @@
 
 ## Install
 
-```sh
-$ npm install --save broccoli-nunjucks
+```
+$ npm install --save-dev broccoli-nunjucks
 ```
 
 
@@ -22,7 +22,7 @@ tree = nunjucks(tree, options);
 
 ## API
 
-### nunjucks(tree, options)
+### nunjucks(tree, [options])
 
 Same options as [`nunjucks.precompile()`](http://jlongster.github.io/nunjucks/api.html#precompile) except for `name`.
 
