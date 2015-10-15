@@ -33,13 +33,13 @@
     "javascript"
   ],
   "dependencies": {
-    "broccoli-filter": "^0.1.6",
-    "nunjucks": "^1.0.0",
-    "object-assign": "^2.0.0"
+    "broccoli-filter": "^1.2.2",
+    "nunjucks": "^2.1.0",
+    "object-assign": "^4.0.1"
   },
   "devDependencies": {
-    "broccoli": "^0.13.3",
-    "broccoli-cli": "0.0.1",
+    "broccoli": "^0.16.8",
+    "broccoli-cli": "^1.0.0",
     "mocha": "*",
     "rimraf": "^2.2.6"
   }

@@ -8,6 +8,8 @@ function NunjucksFilter(inputTree, options) {
 		return new NunjucksFilter(inputTree, options);
 	}
 
+	Filter.call(this, inputTree);
+
 	this.inputTree = inputTree;
 	this.options = options || {};
 }
