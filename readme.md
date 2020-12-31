@@ -1,4 +1,4 @@
-# [broccoli](https://github.com/joliss/broccoli)-nunjucks [![Build Status](https://travis-ci.org/sindresorhus/broccoli-nunjucks.svg?branch=master)](https://travis-ci.org/sindresorhus/broccoli-nunjucks)
+# [broccoli](https://github.com/joliss/broccoli)-nunjucks
 
 > Precompile [Nunjucks](http://jlongster.github.io/nunjucks/) templates
 
